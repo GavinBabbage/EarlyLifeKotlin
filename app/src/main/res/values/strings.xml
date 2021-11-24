@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">EarlyLife</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="activities_tab_label">ACTIVITIES</string>
+    <string name="help_tab_label">HELP</string>
+    <string name="statistics_tab_label">Statistics</string>
+    <string name="generate_npie_nchart">Generate \nPie \nChart</string>
+    <string name="generate_nbar_nchart">Generate \nBar \nChart</string>
+    <string name="generate_nradar_nchart">Generate \nRadar \nChart</string>
+    <string name="shapes_button">shapes_button</string>
+    <string name="numbers_button">numbers_button</string>
+    <string name="love_button">love_button</string>
+    <string name="misc_button">misc_button</string>
+    <string name="shape_body_text">Learning shapes at home is super easy with these fun hands-on activities for toddlers and preschoolers! \n\nShape recognition is one of the earliest focuses from parents, alongside colors. It can be daunting to know where to start. \n\nAs always, incorporating learning concepts into the child’s play is the most natural way to allow for progress.\n\n\"Stimulating your child\'s brain during this time and providing situations where they can explore helps them to learn things that get them in touch with their environment,\"  - says child and adolescent psychologist Robert Myers, Ph.D., founder of the Child Development Institute and assistant clinical professor of Psychiatry and Human Behavior at the University of California, Irvine School of Medicine. \n\n\"Doing developmental activities with them also bonds parents to their child and makes them a better observer, so when they go to the pediatrician, they can give the doctor good information about where the child is developmentally.\"</string>
+    <string name="loveHeader">Love</string>
+    <string name="shapesHeader">Shapes</string>
+    <string name="love_body_text">\"Playing and connecting with our babies gets their brain development going,\"  - says Roni Cohen Leiderman, Ph.D., dean of the Mailman Segal Center for Human Development at Nova Southeastern University and co-author of Let\'s Play and Learn Together. \n\n\"Our love, attention, time, and touch with our baby are the most important parts of developmental activities. Everything is underlined with parent-child interaction.\"</string>
+    <string name="numbersHeader">Numbers</string>
+    <string name="numbers_body_text">Through play and exploration, very young children begin developing math concepts. These concepts are much broader than counting and number experiences. Children begin to notice similarities and differences while experiencing size, shape, texture and function through his/her senses. Young children also begin to understand quantity, time and space through caregiving routines and daily activities. \n\nAs children’s abilities grow, their interests become more complex. Teachers must be observant and recognize when it is time to build on existing skills and incorporate more challenging activities. Daily routines and activities can yield unplanned learning opportunities. Cutting a sandwich, matching socks and counting toes are all examples of activities in which math concepts can be identified.</string>
+    <string name="shapesImageLabel">Shapes</string>
+    <string name="numbersImageLabel">Numbers</string>
+    <string name="miscImageLabel">Misc</string>
+    <string name="loveImageLabel">Love</string>
+
+
+</resources>
